@@ -1,0 +1,5 @@
+<Files install.php>
+	Order deny,allow
+	Deny from all
+	Allow from 77.212.197.10
+</Files>

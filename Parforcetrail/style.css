@@ -1,0 +1,442 @@
+* {
+	margin-bottom: 0;
+	margin-left: 0;
+	margin-right: 0;
+	margin-top: 0px;
+  }
+
+h2{
+	margin-top: 25px;
+	margin-bottom: 15px;
+}
+
+.bullets{
+	margin-top:10px;
+	margin-bottom: 10px;
+}
+
+ul{
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+body {
+	font-size: 100%;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	text-align: center;
+	background-color: #002400;
+	background-position: top center;
+	background-repeat: no-repeat;
+	background-image: url(./images/background.gif);
+}
+
+
+#page {
+	width: 992px;
+	margin: 0px auto;
+	text-align: center;
+	text-shadow: 0px 0px;
+	color: #F4C821;
+}
+
+#header {
+	height: 191px;
+	width: 992px;
+	background: url(./images/topbg.gif);
+}
+
+#logo {
+	text-align: left;
+	letter-spacing: -2px;
+	text-shadow: 0px 0px 8px #000;
+	font: 48px Georgia, Arial, "Times New Roman", Times;
+	margin-left: 18px;
+	margin-top: 94px;
+	color: #F4C821;
+	width: 280px;
+	height: 97px;
+	float: left;
+}
+
+.green {
+color:#AEF080;
+}
+
+#slogan {
+	text-align: left;
+	margin-left: 58px;
+	font: 14px Arial, "Times New Roman", Times;
+	letter-spacing: 0px;
+	color: #FFF;
+}
+
+
+/* TOP NAVIGATION BAR */
+#nav {
+	width: 690px;
+	float: right;
+	margin-top: 137px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+
+#nav-menu-left {
+	background: url(./images/navbar-left.gif) no-repeat top left;
+	width: 27px;
+	height: 55px;
+	float: right;
+}
+#nav-menu-right {
+	background: url(./images/navbar-right.gif) no-repeat top left;
+	width: 27px;
+	height: 55px;
+	float: right;
+}
+#nav-menu {
+	background: url(./images/navbar-bg.gif) repeat-x top left;
+	height: 55px;
+	width: 535px;
+	-webkit-box-shadow: 0px 0px 0px 0px;
+	box-shadow: 0px 0px 0px 0px;
+	float: right;
+}
+
+#nav-menu ul {
+	list-style: none;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	min-width: 0px;
+	min-height: 0px;
+}
+  
+#nav-menu ul a {
+	background-image: url(images/navbar-divider.gif);
+	background-repeat: no-repeat;
+	background-position: right;
+	padding-right: 12px;
+	padding-left: 12px;
+	padding-top: 5px;
+	display: block;
+	text-shadow: 1px 1px 1px #030;
+	font-family: Georgia, Arial, "Times New Roman", Times;
+	font-size: 18px;
+	color: #FFF;
+	text-decoration: none;
+	right: 0px;
+	-webkit-box-shadow: 0px 0px;
+	box-shadow: 0px 0px;
+}
+	
+#nav-menu ul a:hover {
+	text-shadow: 0px 0px 4px #CC6600;
+	text-decoration: none;
+}
+ 
+#nav-menu li {
+	float: left;
+}
+/* END NAVIGATION BAR */
+
+/* Large header image of grass and flower, with slogans */
+#header2 {
+	width: 992px;
+	height: 224px;
+	text-shadow: 2px 2px 2px #000000;
+	background-position: top left;
+	background-repeat: no-repeat;
+	background-image: url(./images/header_trail_logo.jpg);
+}
+
+#header2-slogan1 {
+	font: 48px Georgia, Arial, "Times New Roman", Times;
+	color: #F4C821;
+	text-align: left;
+	letter-spacing: -2px;
+	text-shadow: 2px 2px 2px #333333;
+	padding-bottom: 0px;
+	padding-left: 200px;
+	padding-right: 0px;
+	padding-top: 68px;
+}
+#header2-slogan2 {
+	font: 48px Georgia, Arial, "Times New Roman", Times;
+	color: #F4C821;
+	text-align: left;
+	letter-spacing: -2px;
+	text-shadow: 2px 2px 2px #333333;
+	padding-bottom: 0px;
+	padding-left: 295px;
+	padding-right: 0px;
+	padding-top: 0px;
+}
+/* end large header */
+
+/* clears all floated elements */
+.clearfloats {
+  clear:both;
+}
+/* end clear floats */
+
+/* first content section, lighter green area */
+#content {
+	background: #2E650D url(./images/body-bg.gif) no-repeat top left;
+	width: 992px;
+	min-height: 156px;
+	text-align: left;
+	padding-top: 35px;
+	padding-bottom: 20px;
+}
+
+.content-padding {
+	padding: 0px 20px 0px 20px;
+}
+
+.content-padding a {
+  font:16px Arial, "Times New Roman", Times;
+  color:#CEFF9F;
+  text-shadow:1px 1px 1px #104D00;
+}
+
+.content-padding a:hover {
+  font:16px Arial, "Times New Roman", Times;
+  color:#FFF;
+  text-decoration:none;
+  text-shadow:0px 0px 3px #FF0000;
+}
+
+
+#content h1 {
+	font: 36px Georgia, Arial, "Times New Roman", Times;
+	color: #F4C821;
+	padding-bottom: 10px;
+	text-shadow: 1px 1px 1px #000;
+}
+
+#content p {
+	font: 16px Arial, "Times New Roman", Times;
+	color: #FFF;
+	text-align: left;
+}
+/* end content 1 section */
+
+
+/* image that divides the two different colored content sections */
+#body-divider {
+  background:#1D5600 url(./images/body-divider.gif) no-repeat top left;
+  width:992px;
+  height:23px;
+}
+/* end content divider */
+
+/* darker green content section, "content 2" */
+#content2 {
+  width:992px;
+  min-height:250px;
+  background:#1D5600;
+  text-align:left;
+  padding-top:10px;
+  padding-bottom:30px;
+}
+
+#content2 p {
+  font:16px Arial, "Times New Roman", Times;
+  color:#FFF;
+  text-align:justify;
+  padding-bottom:10px;
+}
+
+#content2 h2,h3,h4,h5,h6 {
+	background: #1D5600 url(./images/headline-arrow.gif) no-repeat top left;
+	font: normal 25px serif, "Times New Roman", Times;
+	line-height: 25px;
+	color: #FFF;
+	text-shadow: 1px 1px 2px #000;
+	padding-bottom: 10px;
+	padding-left: 27px;
+	padding-top: 0px;
+}
+
+.content2-block {
+	width: 274px;
+	float: left;
+}
+
+.content2-block p {
+	width: 264px;
+	float: left;
+	text-align: left;
+	margin-top: 5px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	margin-left: 5px;
+}
+
+  /* three column area, vertical dotted divider */
+  .content-divider {
+    background:url(./images/content-divider.gif) no-repeat top center;
+    width:2px;
+    height:274px;
+    float:left;
+    padding:0px 30px 0px 30px; 
+  }
+  /* end divider */
+
+/* end content 2 */
+
+
+.textarea {
+	width:80%;
+}
+
+
+/* subscribe form */
+#subscribe {text-align:right; padding-right:15px;}
+#subscribe input { margin:1px 0;}
+.button {
+  background:transparent url(./images/submit.gif) no-repeat top left;
+  padding-bottom:5px; 
+  border:none;
+  width:126px;
+  height:33px;
+  color:#FFFFFF;
+  font:bold 13px Arial, Georgia, "Times New Roman", Times;
+  cursor:pointer;
+}
+.inputstyle {
+  background:#002200;
+  width:200px;
+  height:30px;
+  color:#FFF;
+  font-size:14px;
+  padding:0px 5px 0px 10px;
+  border:1px solid #427B23;
+}
+/* end subscribe form */
+
+
+
+/* footer of page */
+#footer-div {
+  background:url(./images/footer-div.gif) no-repeat top left;
+  width:992px;
+  height:6px;
+}
+
+#footer {
+  padding-top:15px;
+  width:992px;
+  height:150px;
+  background:#001800;
+  text-align:center;
+}
+
+#footer p {
+  font:12px Arial, "Times New Roman", Times;
+  color:#FFF;
+}
+
+#footer a {
+  font:12px Arial, "Times New Roman", Times;
+  color:#FFF;
+}
+/* end footer */
+
+
+#cssmenu ul {
+	margin: 0;
+	line-height: 100%;
+	width: auto;
+	box-shadow: 0 0px;
+	-webkit-box-shadow: 0 0px;
+	padding-bottom: 0;
+	padding-left: 6px;
+	padding-right: 6px;
+	padding-top: 13px;
+}
+#cssmenu li {
+  margin: 0 5px;
+  padding: 0 0 8px;
+  float: left;
+  position: relative;
+  list-style: none;
+}
+#cssmenu a,
+#cssmenu a:link {
+	font-weight: bold;
+	font-size: 156x;
+	text-decoration: none;
+	display: block;
+	padding: 8px 20px;
+	margin: 0;
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	text-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
+}
+#cssmenu a:hover {
+  background: #000;
+  color: #fff;
+}
+#cssmenu .active a,
+#cssmenu li:hover > a {
+	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+	text-shadow: 0 px #ffffff;
+	background-repeat: repeat-x;
+	background-color: #336600;
+}
+#cssmenu ul ul li:hover a,
+#cssmenu li:hover li a {
+	background: none;
+	border: none;
+	color: #FFFFFF;
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+}
+#cssmenu ul ul a:hover {
+	color: #fff !important;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	background-color: #009900;
+	background-position: 0 -100px;
+}
+#cssmenu li:hover > ul {
+  display: block;
+}
+#cssmenu ul ul {
+	z-index: 1000;
+	display: none;
+	margin: 0;
+	padding: 0;
+	width: 185px;
+	position: absolute;
+	top: 40px;
+	left: 0;
+	background-color: #003300;
+	background-position: 0 0;
+}
+#cssmenu ul ul li {
+  float: none;
+  margin: 0;
+  padding: 3px;
+}
+#cssmenu ul ul a,
+#cssmenu ul ul a:link {
+  font-weight: normal;
+  font-size: 12px;
+}
+#cssmenu ul:after {
+  content: '.';
+  display: block;
+  clear: both;
+  visibility: hidden;
+  line-height: 0;
+  height: 0;
+}
+* html #cssmenu ul {
+  height: 1%;
+}

@@ -1,0 +1,151 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: One.com WP\n"
+"POT-Creation-Date: 2017-04-06 11:45+0530\n"
+"PO-Revision-Date: 2017-02-14 16:53+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.css\n"
+"X-Poedit-SearchPathExcluded-1: *.js\n"
+
+#: inc/functions.php:29 inc/functions.php:195
+msgid "Connection timed out"
+msgstr ""
+
+#: inc/functions.php:52
+msgid "Sorry, no compatible themes found for your version of WordPress and PHP."
+msgstr ""
+
+#: inc/functions.php:52 inc/functions.php:230
+msgid "Try again"
+msgstr ""
+
+#: inc/functions.php:88
+msgid "Installing theme"
+msgstr ""
+
+#: inc/functions.php:108 inc/functions.php:463
+msgid "Something went wrong. Please contact the support at One.com."
+msgstr ""
+
+#: inc/functions.php:122 inc/functions.php:480
+msgid "Unable to connect to the file system. Please contact the support at One.com."
+msgstr ""
+
+#: inc/functions.php:137
+msgid "Theme installed successfully"
+msgstr ""
+
+#: inc/functions.php:140 inc/functions.php:147 inc/functions.php:502
+#: inc/functions.php:504 templates/plugin-listing.php:84
+#: templates/plugin-listing.php:86 templates/recommended-plugin-listing.php:112
+#: templates/theme-listing.php:106 templates/theme-listing.php:108
+msgid "Activate"
+msgstr ""
+
+#: inc/functions.php:230
+msgid "Sorry, no compatible plugins found with your version of WordPress and PHP."
+msgstr ""
+
+#: inc/functions.php:444
+msgid "Installing plugin"
+msgstr ""
+
+#: inc/functions.php:495
+msgid "Plugin installed successfully"
+msgstr ""
+
+#: onecom-themes-plugins.php:175 onecom-themes-plugins.php:176
+#: onecom-themes-plugins.php:220 onecom-themes-plugins.php:223
+msgid "One.com"
+msgstr ""
+
+#: onecom-themes-plugins.php:185 onecom-themes-plugins.php:186
+#: onecom-themes-plugins.php:232 onecom-themes-plugins.php:235
+msgid "Themes"
+msgstr ""
+
+#: onecom-themes-plugins.php:193 onecom-themes-plugins.php:194
+#: onecom-themes-plugins.php:201 onecom-themes-plugins.php:202
+#: onecom-themes-plugins.php:243 onecom-themes-plugins.php:246
+msgid "Plugins"
+msgstr ""
+
+#: onecom-themes-plugins.php:257
+msgid "One.com Control Panel"
+msgstr ""
+
+#: onecom-themes-plugins.php:260
+msgid "Go to Control Panel at One.com"
+msgstr ""
+
+#: onecom-themes-plugins.php:272
+msgid "One.com Guides & FAQ"
+msgstr ""
+
+#: onecom-themes-plugins.php:275
+msgid "Go to Guides & FAQ at One.com"
+msgstr ""
+
+#: templates/plugin-listing.php:11 templates/recommended-plugin-listing.php:11
+msgid "Presenting some of the best WordPress plugins, curated for quality."
+msgstr ""
+
+#: templates/plugin-listing.php:21 templates/recommended-plugin-listing.php:21
+msgid "One.com plugins"
+msgstr ""
+
+#: templates/plugin-listing.php:22 templates/recommended-plugin-listing.php:22
+msgid "Recommended plugins"
+msgstr ""
+
+#: templates/plugin-listing.php:81 templates/recommended-plugin-listing.php:110
+#: templates/theme-listing.php:96
+msgid "Active"
+msgstr ""
+
+#: templates/plugin-listing.php:89 templates/recommended-plugin-listing.php:114
+msgid "Install now"
+msgstr ""
+
+#: templates/recommended-plugin-listing.php:122
+msgid "More details"
+msgstr ""
+
+#: templates/recommended-plugin-listing.php:129
+msgid "By"
+msgstr ""
+
+#: templates/theme-listing.php:12
+msgid "Exclusive themes specially crafted for One.com customers."
+msgstr ""
+
+#: templates/theme-listing.php:81
+msgid "Preview"
+msgstr ""
+
+#: templates/theme-listing.php:111
+msgid "Install"
+msgstr ""
+
+#: templates/theme-listing.php:138
+msgid "Back to themes"
+msgstr ""
+
+#: templates/theme-listing.php:144
+msgid "Desktop"
+msgstr ""
+
+#: templates/theme-listing.php:145
+msgid "Mobile"
+msgstr ""

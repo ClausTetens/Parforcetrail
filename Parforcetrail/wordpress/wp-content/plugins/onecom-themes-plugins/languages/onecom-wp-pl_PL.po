@@ -1,0 +1,160 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: One.com WP\n"
+"POT-Creation-Date: 2017-05-09 14:55+0530\n"
+"PO-Revision-Date: 2017-05-10 10:22+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.css\n"
+"X-Poedit-SearchPathExcluded-1: *.js\n"
+
+#: inc/functions.php:29 inc/functions.php:217
+msgid "Connection timed out"
+msgstr "Przekroczony czas połączenia"
+
+#: inc/functions.php:52
+msgid ""
+"Sorry, no compatible themes found for your version of WordPress and PHP."
+msgstr ""
+"Niestety nie znaleziono szablonów zgodnych z tą wersją WordPress i PHP."
+
+#: inc/functions.php:52 inc/functions.php:252
+msgid "Try again"
+msgstr "Spróbuj ponownie"
+
+#: inc/functions.php:96 inc/functions.php:437
+msgid "WordPress is being upgraded. Please try again later."
+msgstr "Trwa aktualizacja WordPress. Spróbuj ponownie później."
+
+#: inc/functions.php:110
+msgid "Installing theme"
+msgstr "Trwa instalacja szablonu"
+
+#: inc/functions.php:130 inc/functions.php:476
+msgid "Something went wrong. Please contact the support at One.com."
+msgstr "Coś poszło źle. Skontaktuj się z działem pomocy One.com."
+
+#: inc/functions.php:144 inc/functions.php:493
+msgid ""
+"Unable to connect to the file system. Please contact the support at One.com."
+msgstr ""
+"Nie można nawiązać połączenia z systemem plików. Skontaktuj się z działem "
+"pomocy One.com."
+
+#: inc/functions.php:159
+msgid "Theme installed successfully"
+msgstr "Instalacja szablonu zakończona sukcesem"
+
+#: inc/functions.php:162 inc/functions.php:169 inc/functions.php:515
+#: inc/functions.php:517 templates/plugin-listing.php:84
+#: templates/plugin-listing.php:86 templates/recommended-plugin-listing.php:97
+#: templates/theme-listing.php:106 templates/theme-listing.php:108
+msgid "Activate"
+msgstr "Aktywuj"
+
+#: inc/functions.php:252
+msgid ""
+"Sorry, no compatible plugins found with your version of WordPress and PHP."
+msgstr "Niestety nie znaleziono wtyczek zgodnych z tą wersją WordPress i PHP."
+
+#: inc/functions.php:457
+msgid "Installing plugin"
+msgstr "Trwa instalacja wtyczki"
+
+#: inc/functions.php:508
+msgid "Plugin installed successfully"
+msgstr "Instalacja wtyczki zakończona sukcesem"
+
+#: onecom-themes-plugins.php:183 onecom-themes-plugins.php:184
+#: onecom-themes-plugins.php:228 onecom-themes-plugins.php:231
+msgid "One.com"
+msgstr "One.com"
+
+#: onecom-themes-plugins.php:193 onecom-themes-plugins.php:194
+#: onecom-themes-plugins.php:240 onecom-themes-plugins.php:243
+msgid "Themes"
+msgstr "Szablony"
+
+#: onecom-themes-plugins.php:201 onecom-themes-plugins.php:202
+#: onecom-themes-plugins.php:209 onecom-themes-plugins.php:210
+#: onecom-themes-plugins.php:251 onecom-themes-plugins.php:254
+msgid "Plugins"
+msgstr "Wtyczki"
+
+#: onecom-themes-plugins.php:265
+msgid "One.com Control Panel"
+msgstr "Panel sterowania One.com"
+
+#: onecom-themes-plugins.php:268
+msgid "Go to Control Panel at One.com"
+msgstr "Przejdź do Panelu sterowania One.com"
+
+#: onecom-themes-plugins.php:289
+msgid "One.com Guides & FAQ"
+msgstr "Przewodniki One.com i najczęściej zadawane pytania"
+
+#: onecom-themes-plugins.php:292
+msgid "Go to Guides & FAQ at One.com"
+msgstr "Przejdź do działu przewodników One.com i pytań"
+
+#: templates/plugin-listing.php:11 templates/recommended-plugin-listing.php:11
+msgid "Presenting some of the best WordPress plugins, curated for quality."
+msgstr "Przedstawiamy najlepsze wtyczki WordPress, wybrane  pod kątem jakości."
+
+#: templates/plugin-listing.php:21 templates/recommended-plugin-listing.php:21
+msgid "One.com plugins"
+msgstr "Wtyczki One.com"
+
+#: templates/plugin-listing.php:22 templates/recommended-plugin-listing.php:22
+msgid "Recommended plugins"
+msgstr "Polecane wtyczki"
+
+#: templates/plugin-listing.php:81 templates/recommended-plugin-listing.php:95
+#: templates/theme-listing.php:96
+msgid "Active"
+msgstr "Aktywne"
+
+#: templates/plugin-listing.php:89 templates/recommended-plugin-listing.php:99
+msgid "Install now"
+msgstr "Zainstaluj teraz"
+
+#: templates/recommended-plugin-listing.php:107
+msgid "More details"
+msgstr "Więcej informacji"
+
+#: templates/recommended-plugin-listing.php:114
+msgid "By"
+msgstr "Autor"
+
+#: templates/theme-listing.php:12
+msgid "Exclusive themes specially crafted for One.com customers."
+msgstr "Wyjątkowe szablony stworzone specjalnie dla klientów One.com."
+
+#: templates/theme-listing.php:81
+msgid "Preview"
+msgstr "Podgląd"
+
+#: templates/theme-listing.php:111
+msgid "Install"
+msgstr "Instaluj"
+
+#: templates/theme-listing.php:138
+msgid "Back to themes"
+msgstr "Powrót do szablonów"
+
+#: templates/theme-listing.php:144
+msgid "Desktop"
+msgstr "Komputer"
+
+#: templates/theme-listing.php:145
+msgid "Mobile"
+msgstr "Urządzenie przenośne"
